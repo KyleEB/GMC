@@ -5995,23 +5995,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kyle\\.nuget\\packages\\": {},
+    "C:\\Users\\magic\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kyle\\source\\repos\\GMC\\GMC\\GMC.csproj",
+      "projectUniqueName": "C:\\Users\\magic\\source\\repos\\KyleEB\\GMC\\GMC\\GMC.csproj",
       "projectName": "GMC",
-      "projectPath": "C:\\Users\\Kyle\\source\\repos\\GMC\\GMC\\GMC.csproj",
-      "packagesPath": "C:\\Users\\Kyle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kyle\\source\\repos\\GMC\\GMC\\obj\\",
+      "projectPath": "C:\\Users\\magic\\source\\repos\\KyleEB\\GMC\\GMC\\GMC.csproj",
+      "packagesPath": "C:\\Users\\magic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\magic\\source\\repos\\KyleEB\\GMC\\GMC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Kyle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\magic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
