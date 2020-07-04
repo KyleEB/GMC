@@ -109,3 +109,4 @@ C:\Users\Kyle\source\repos\GMC\GMC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.Cod
 C:\Users\Kyle\source\repos\GMC\GMC\obj\Debug\netcoreapp3.1\GMC.csproj.CoreCompileInputs.cache
 C:\Users\Kyle\source\repos\GMC\GMC\obj\Debug\netcoreapp3.1\GMC.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Kyle\source\repos\GMC\GMC\obj\Debug\netcoreapp3.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\Kyle\source\repos\GMC\GMC\obj\Debug\netcoreapp3.1\Razor\Pages\Experience.cshtml.g.cs
