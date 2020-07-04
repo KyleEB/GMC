@@ -28,7 +28,6 @@ a {
 -------------------------------------------------- */
 html {
   font-size: 14px;
-  font
 }
 @media (min-width: 768px) {
   html {
@@ -64,7 +63,7 @@ body {
   margin-bottom: 60px;
   background-image: url(../images/space_background.jpg);
   background-size: cover;
-  color: aliceblue;
+  color: whitesmoke;
 }
 .footer {
   position: absolute;
